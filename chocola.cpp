@@ -1,33 +1,3 @@
-
-
-    PROBLEMS
-    STATUS
-    RANKS
-    DISCUSS
-    CONTESTS
-    PROFILE 
-
-    Problems Chocolate My submissions 
-
-    Not hidden submissions All submissions 
-
-ron: submissions
-Chocolate
-ID 		DATE 	PROBLEM		RESULT 	TIME 	MEM 	LANG
-26477478 		2020-08-24 21:52:26 	Chocolate	accepted edit    ideone it 	0.00 	4.6M 	CPP14
-26477452 		2020-08-24 21:42:43 	Chocolate	wrong answer edit    ideone it 	0.00 	4.4M 	CPP14
-26477448 		2020-08-24 21:42:02 	Chocolate	compilation error edit    ideone it 	- 	- 	CPP14
-26477424 		2020-08-24 21:35:34 	Chocolate	wrong answer edit    ideone it 	0.00 	4.6M 	CPP14
-26477409 		2020-08-24 21:32:29 	Chocolate	wrong answer edit    ideone it 	0.00 	4.7M 	CPP14
-26477407 		2020-08-24 21:31:52 	Chocolate	compilation error edit    ideone it 	- 	- 	CPP14
-26477406 		2020-08-24 21:31:29 	Chocolate	compilation error edit    ideone it 	- 	- 	CPP14
-
-Selected submissions:
-?
-Source code 26477478
-
-SPOJ submission 26477478 (CPP14) plaintext list. Status: AC, problem CHOCOLA, contest SPOJ. By rohannegi (ron), 2020-08-24 21:52:26.
-
     #include <iostream>
     #include <bits/stdc++.h>
     #define int long long 
@@ -112,16 +82,3 @@ SPOJ submission 26477478 (CPP14) plaintext list. Status: AC, problem CHOCOLA, co
     	return 0;
     } 
 
-Source code | Plain text | Copy to submit
-ads via Carbon
-Get $100 of free cloud computing. Build and deploy your app with the industry’s leading price-performance.
-ads via Carbon
-
-About | Tutorial | Tools | Clusters | Credits | API | Widgets
-
-Legal: Terms of Service | Privacy Policy | GDPR Info
- RSS 
-© Spoj.com. All Rights Reserved. Spoj uses Sphere Engine™ © by Sphere Research Labs.
-Feedback
-Not using Hotjar yet?
-Select an element on the page.
